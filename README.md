@@ -61,9 +61,9 @@ My areas of interest and planned learning:
 Data Science Roadmap
 ├── Python Programming
 ├── Data Analysis with NumPy & Pandas
+|__ Data Visualization
 ├── SQL and Database Fundamentals
-├── Statistics and Numerical Methods
-├── Data Visualization
+├── Statistics
 └── Machine Learning Fundamentals
 ```
 
